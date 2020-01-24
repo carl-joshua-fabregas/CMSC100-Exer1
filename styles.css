@@ -9,8 +9,19 @@ h3{
 	color: white;
 	text-align: center;
 }
+h4{
+	color: white;
+	text-align: center;
+}
+h5{
+	color: white;
+	text-align: center;
+}
 table{
 	font-family: Arial;
 	color: white;
-	border: 1px solid white;
+}
+ul{
+	font-family: Arial;
+	color: white;
 }
